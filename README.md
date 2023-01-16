@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikFranki
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React source code
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me http://franki.sevenyuan.cn/
 
