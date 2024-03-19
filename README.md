@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikFranki
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c programming
+- 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on anyone who want to make something happen
 - 📫 How to reach me http://franki.sevenyuan.cn/
 
